@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+    text-align: center;
+}
+h1{
+    color: cyan;
+    border: 3px;
+    border-style: dashed;
+    border-color:crimson;
+}
